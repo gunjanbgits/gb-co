@@ -1,0 +1,952 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"project-list",
+				"project-list-label"
+			],
+			[
+				"project",
+				"project-list"
+			],
+			[
+				"router",
+				"router-link-exact-active"
+			],
+			[
+				"proejct",
+				"project-details-container"
+			],
+			[
+				"pro",
+				"project-container-image"
+			],
+			[
+				"top",
+				"topLabel"
+			],
+			[
+				"intro",
+				"intro-message"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"projct-se",
+				"project-section-container"
+			],
+			[
+				"project-conte",
+				"project-content-wrapper"
+			],
+			[
+				"list",
+				"list-item"
+			],
+			[
+				"scroll",
+				"scrolling-wrapper"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"home",
+				"home-button"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"nav",
+				"navOpen"
+			],
+			[
+				"nav-",
+				"nav-fullPage"
+			],
+			[
+				"logo",
+				"logo-link"
+			],
+			[
+				"index",
+				"index-content-media"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"project-iamge",
+				"project-image-container"
+			],
+			[
+				"grid",
+				"grid-column"
+			],
+			[
+				"project-content-wrapper",
+				"project-content-wrapper-fullWidth"
+			],
+			[
+				"back",
+				"back-button"
+			],
+			[
+				"sele",
+				"selectedwork-label"
+			],
+			[
+				"about",
+				"about-link"
+			],
+			[
+				"gir",
+				"grid-column"
+			],
+			[
+				"io",
+				"index-content-text"
+			],
+			[
+				"index-c",
+				"index-content-text"
+			],
+			[
+				"imag",
+				"index-content-image"
+			],
+			[
+				"p201",
+				"p2017"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"chann",
+				"channelContent"
+			],
+			[
+				"close",
+				"closeChannel"
+			],
+			[
+				"content",
+				"contentObj"
+			],
+			[
+				"channel",
+				"channelContent"
+			],
+			[
+				"channe",
+				"channelContentVisible"
+			],
+			[
+				"v",
+				"v-if\t<div v-if=\"\">"
+			],
+			[
+				"filte",
+				"filteredChannels"
+			],
+			[
+				"backrou",
+				"background-color"
+			],
+			[
+				"juju",
+				"jujuPage"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"con",
+				"container-01"
+			],
+			[
+				"right",
+				"rightFloat"
+			],
+			[
+				"slide",
+				"slideNumber"
+			],
+			[
+				"cu",
+				"currentSlideNumber"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"slick",
+				"slick-next"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"backgorun",
+				"background-color"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"Project",
+				"ProjectDetails"
+			],
+			[
+				"margn",
+				"margin-right"
+			],
+			[
+				"project-sec",
+				"project-section-container"
+			],
+			[
+				"col",
+				"column-4x8"
+			],
+			[
+				"column",
+				"column-2"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"project-image",
+				"project-image-container"
+			],
+			[
+				"font-fa",
+				"font-feature-settings"
+			],
+			[
+				"transition",
+				"transition-timing-function"
+			],
+			[
+				"navi",
+				"nav-items"
+			],
+			[
+				"info",
+				"info-link"
+			],
+			[
+				"revereis",
+				"reveries-link"
+			],
+			[
+				"studies",
+				"studies-link"
+			],
+			[
+				"hash",
+				"hashesFixed"
+			],
+			[
+				"projec",
+				"project-page"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"lis",
+				"listActive"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"g",
+				"gButton"
+			],
+			[
+				"Scroll",
+				"scrollPosition"
+			],
+			[
+				"nav-me",
+				"nav-medium"
+			],
+			[
+				"switch",
+				"switchFixed"
+			],
+			[
+				"toggle",
+				"toggle-button"
+			],
+			[
+				"sc",
+				"scrollPosition"
+			],
+			[
+				"conte",
+				"containerId"
+			],
+			[
+				"create",
+				"createMainCanvas"
+			],
+			[
+				"translate",
+				"translateX"
+			],
+			[
+				"xl",
+				"xlarge"
+			],
+			[
+				"tr",
+				"translateY"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"nav-menu",
+				"nav-menu-overlay"
+			],
+			[
+				"slider",
+				"slider-container"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"spri",
+				"spriteFire"
+			],
+			[
+				"fire",
+				"fireImg"
+			],
+			[
+				"st3",
+				"st3_data"
+			],
+			[
+				"filt",
+				"filteredProjects"
+			],
+			[
+				"background-",
+				"background-repeat\tproperty"
+			],
+			[
+				"backgroun",
+				"background-color\tproperty"
+			],
+			[
+				"my",
+				"myJson"
+			],
+			[
+				"all",
+				"allwork"
+			],
+			[
+				"selected",
+				"selectedCategory"
+			],
+			[
+				"work",
+				"Work"
+			],
+			[
+				"one",
+				"OneTwenty"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"hover",
+				"hoverActive"
+			],
+			[
+				"pri",
+				"project-list-year"
+			],
+			[
+				"ex",
+				"exact-active"
+			],
+			[
+				"is",
+				"isActive"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"sign",
+				"signIn"
+			],
+			[
+				"str",
+				"strength"
+			],
+			[
+				"backgroiu",
+				"background-size\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"allText",
+				"allTextLines"
+			],
+			[
+				"trip",
+				"trip_data"
+			],
+			[
+				"label",
+				"labelDisplay"
+			],
+			[
+				"inter",
+				"interface"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"margion",
+				"margin-bottom"
+			],
+			[
+				"f1",
+				"ff0071"
+			],
+			[
+				"work-grid",
+				"work-grid-text-block"
+			],
+			[
+				"ff",
+				"ff0071"
+			],
+			[
+				"onboar",
+				"Onboarding"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"fil",
+				"filterVal"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"inine",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 886,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/views/Home.vue",
+			"settings":
+			{
+				"buffer_size": 3249,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/router.js",
+			"settings":
+			{
+				"buffer_size": 2283,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 312.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/public",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/components",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/projects",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/views"
+	],
+	"file_history":
+	[
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/views/Projects.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/views/Home.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/projects/juju.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/projects/adobesocial.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/components/Navbar.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/App.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/projects/onetwenty.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/router.js",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/components/Footer.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/Projects/juju.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/public/index.html",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/main.js",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/src/components/HelloWorld.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gb-co/package.json",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/components/Navigation.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/onetwenty.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/juju.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/router.js",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/Home.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/components/Index.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/components/Footsies.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/components/Navigation-fullpage.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/components/Navigation-Old.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/main.js",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/public/index.html",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/Projects.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/Index.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/components/project.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/data.json",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/Feed.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/node_modules/are.na/index.js",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/About.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/Info.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/indesignnext.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/indesign.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/home-old.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/adobesocial.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/App.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/destabilize.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/projectdetail.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/adobesocial copy.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/datum-bigie.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/120±15.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/projects/projectdetail.vue copy",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/public/p5/sketch.js",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/components/HelloWorld.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/Studies.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/node_modules/vue-slick/dist/slickCarousel.umd.js",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/node_modules/vue-slick/dist/slickCarousel.esm.js",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/node_modules/vue-slick/src/slickCarousel.vue",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/node_modules/vue-slick/dist/slickCarousel.cjs.js",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/package.json",
+		"/Users/gunjanb/Dropbox/_ReStart/gunjanb-co/src/views/Reveries.vue",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P2/Rice/ricelapse_AME/timelapse12015/timelapse12015.csv",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P2/Rice/ricelapse_AME/timelapse12015/sortcsv.py",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/components/work.vue",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/components/p5App.js",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/router/index.js",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/package.json",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/data.json",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/components/Home.vue",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/components/projects/onetwenty.vue",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/components/subcomponents/Navigation.vue",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/components/projectDetails.vue",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/App.vue",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/components/Journal.vue",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/components/subcomponents/Footsies.vue",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/index.html",
+		"/Users/gunjanb/Work/RESTART/GunjanB.CO/src/data.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/p4thesis/src/router/index.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/p4thesis/src/components/sketchPlayer.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/p4thesis/src/store/index.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/p4thesis/src/config.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/p4thesis/.babelrc",
+		"/Users/gunjanb/Downloads/indexhibit-master/options.php",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexCards/src/components/Home.vue",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexCards/src/components/Iso.vue",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexCards/testdata",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexCards/index.html",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexCards/src/main.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexCards/src/router/index.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexCards/src/store/store.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexCards/static/data.json",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexCards/src/data.json",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexCards/src/data.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/store/store.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/components/fileupload.vue",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/components/Home.vue",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/auth.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/router/index.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/components/toolbar.vue",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/package-lock.json",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/package.json",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/components/fileUpload",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/store/cluster.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/store/user.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/main.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/store/mutation.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/autho.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/components/Login.vue",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/components/signup.vue",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/App.vue",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/store/autho.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/store.js",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/index.html",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/.gitignore",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Fall2018:Thesis/Thesis/P4/Indexxx/indexxx/src/components/HelloWorld.vue",
+		"/Users/gunjanb/Dropbox/_Work_CCA/Conceptual Cartography/A2/index2",
+		"/Users/gunjanb/Desktop/artC.txt",
+		"/Users/gunjanb/Pictures/gunjanb_ig_20180610/media.json",
+		"/Users/gunjanb/Work/RESTART/vueapp01/src/components/Contact.vue",
+		"/Users/gunjanb/Work/RESTART/vueapp01/src/components/About.vue",
+		"/Users/gunjanb/Work/RESTART/vueapp01/src/components/Home.vue",
+		"/Users/gunjanb/Work/RESTART/vueapp01/src/main.js",
+		"/Users/gunjanb/Work/RESTART/vueapp01/src/components/HelloWorld2.vue",
+		"/Users/gunjanb/Work/RESTART/vueapp01/src/components/navigation.vue",
+		"/Users/gunjanb/Work/RESTART/vueapp01/src/components/HelloWorld.vue",
+		"/Users/gunjanb/Desktop/songrecommend",
+		"/Users/gunjanb/Work/citizenscience/hello_extensions/css/style.css",
+		"/Users/gunjanb/Work/citizenscience/hello_extensions/data/sfplants.txt",
+		"/Users/gunjanb/Work/citizenscience/hello_extensions/manifest.json",
+		"/Users/gunjanb/Downloads/isadora-kinect-tutorial-files/Isadora_Kinect_Tracking_Mac/Isadora_Kinect_Tracking_Mac.pde",
+		"/Users/gunjanb/Downloads/branch/Processing/Processing_2_0/resources/build.properties",
+		"/Users/gunjanb/Downloads/Processing-2/Processing_2_0/resources/build.properties",
+		"/Users/gunjanb/Downloads/Processing-2/Processing_2_0/resources/library.properties",
+		"/Users/gunjanb/Documents/Processing/LoadSaveJSON/data/bayarea.geojson",
+		"/Users/gunjanb/Documents/Processing/LoadSaveJSON/data/sfosmall.geojson",
+		"/Users/gunjanb/Desktop/map.geojson"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 466.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GT-Zirkon-Book",
+			"span",
+			"src",
+			"artificiallyesoteric",
+			"h1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/views/Home.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2010,
+								2010
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vuejs Complete Package/vue.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 947.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2103,
+								2103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 124.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 158.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gb-co.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
