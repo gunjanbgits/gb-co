@@ -1,12 +1,15 @@
 <template>
+	<div class="project-block">
 <div class="project-section-block" v-lazy-container="{ selector: 'img' }">
-	<div class="ek-text">
+	<div class="project-title-section">
 		<div class="project-title">
 			<span class="title-inner">Ekkos<span class="year-label">2019</span></span>
 		</div>
 		<div class="project-meta">
-			Participatory Design, Machine Leaning, StoryTelling
+			Speculative Design, Interactive Installation, Performance Art, Digital Prototyping, iOS
 		</div>
+	</div>
+	<div class="project-info-section">
 		<div class="project-details">
 			<p>
 			Ekkos is an iOS application with <span class="bg-gradient">no visual interface.</span> It turns the phone into a haptic echo chamber for the tap and swipe gestures on the screen. When the user first taps, the immediate haptic feedback affirms the detection of a gesture. The sequence of the gestures made on the screen are mirrored by the phone after a delay of 2 seconds using the haptic feedback.</p><p>
@@ -15,7 +18,7 @@
 	</div>
 	<div class="diagram" v-lazy-container="{ selector: 'img' }"><img data-src="/projects/ekkos/d1@2x.png"/></div>
 </div>
-<div class="ek-big-image-side">
+<div class="project-graphic-section">
 	<div class="graphic-img"><img data-src="/projects/ekkos/01.png"/></div>
 </div>
 <div class="ek-img-grid-1">
@@ -26,12 +29,12 @@
 	<div class="graphic-img"><img data-src="/projects/ekkos/03.jpg"/></div>
 	<div class="caption">Activity Area, The Intervention, 2018</div>
 </div>
-<div class="ek-center-text">
+<div class="project-graphic-section-middle-small">
 	<div class="project-title">
 		<span class="title-inner">The Intervention<span class="year-label">2018</span></span>
 	</div>
 	<p>
-	The participant is asked to spend 7 minutes in the test environment with no specific instructions. Participant behavior is observed and cataloged. </p>
+	The participant is asked to spend 7 minutes in the test environment with no specific instructions.<br/> Participant behavior is observed and cataloged. </p>
 	<p class="ek-list-title">Test Environment Elements</p>
 	<ul class="ek-test-env">
 		<li>1 x Table (48”x 48”x 36”)</li>
@@ -45,7 +48,7 @@
 		<li>1 x Tripod (Manfrotto)</li>
 	</ul>
 </div>
-	<div class="ek-img-big">
+	<div class="project-graphic-section-middle-big">
       	<div class="graphic-img">
       		<img data-src="/projects/ekkos/05.jpg"/>
       	</div>
@@ -56,9 +59,10 @@
       	</div>
     </div>
   	<div class="caption-bigone">
-  		<p>↑<p><p class="impact">
+  		<p>↑</p><p class="impact">
   		Today's mainstream technologies are well designed for rapid consumption of information and linear, sequential action. A side effect of their effectiveness to tasks, however, is a loss of undirected, curiosity-driven exploration in the world.</p>
   	</div>
+</div>
 </div>
 </template>
 
@@ -122,4 +126,16 @@ export default {
 	background #000
 	color #fff
 	padding 0 4px
+.medium
+	.caption-bigone
+		.impact
+			font-size 1.5rem
+			margin 0 5vw
+	.ek-img-small-gif
+		grid-column 3 /span 8
+	.ek-img-grid-1
+		grid-column 1 / span 6
+	.ek-img-grid-2
+		grid-column 7 / span 6
+	
 </style>

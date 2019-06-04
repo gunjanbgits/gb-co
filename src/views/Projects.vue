@@ -1,8 +1,7 @@
 <template>
   <div class="project-detail-container">
 	 <router-view />
-	 <div class="divider">---</div>
-  	<div class="section-block hidden">
+  	<div class="section-block">
   		<div class="section-content">
   			<div class="label">Recent Work</div>
   			<ul class="project-list">

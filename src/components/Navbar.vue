@@ -23,10 +23,11 @@
     </div>
     <div class="nav-section-4 social-links nav-row-1">
       <ul class="horizontal-list">
-        <li>contact@gunjanb.co</li>
-        <li>Github</li>
-        <li>LinkedIn</li>
-        <li>Instagram</li>
+        <li><a href="mailto:contact@gunjanb.co">contact@gunjanb.co</a></li>
+        <li> <a href="/GunjanB-CV.pdf" target="_blank">CV</a></li>
+        <li><a href="https://github.com/gunjanbgits" target="_blank">Github</a></li>
+        <li><a href="https://www.linkedin.com/in/gunjan-bhutani-05036b31/" target="_blank">LinkedIn</a></li>
+        <li><a href="https://www.instagram.com/gunjanb_co/" target="_blank">Instagram</a></li>
       </ul>
     </div>
   </div>

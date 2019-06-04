@@ -19,13 +19,9 @@ export default {
 
 .leFooter
 	padding 20px
-	background-color #000
-	color #fff
 	ul
 		list-style none
 		margin 0
 		padding 0
-		a
-			color #fff
 
 </style>

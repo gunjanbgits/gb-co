@@ -1,27 +1,35 @@
 <template>
+<div class="project-block">
 <div class="project-section-block" v-lazy-container="{ selector: 'img' }">
-	<div class="id-text">
-		<div class="project-title">
+	<div class="project-title-section">
+			<div class="project-title">
 			<span class="title-inner">InDesign Next<span class="year-label">2016</span></span>
 		</div>
 		<div class="project-meta">
-			User Experience Design, Product Design
+			User Research, Product Design, POC
 		</div>
+	</div>
+	<div class="project-info-section">
 		<div class="project-details">
 			<p>
-New Page Layouting System imagined from ground up, focussed on scalability and extensibility to support workflows for cross channel publishing needs.
+New Page Layouting System imagined from ground up, focussed on scalability and extensibility to support workflows for cross-channel publishing needs.</p>
+<p>
+InDesign has been the industry standard in print publishing for over a decade and still is. Modern Day Publishing has grown immensely to cater to multiple mediums where print is just a channel, InDesign though capable of supporting digital publishing, still lacks behind in providing an experience that enables users to seamlessly create and deliver content across multiple channels. </p>
+<p>
+Project Blocks is an Idea that re-imagines how users can create content within a WYSIWYG application environment using a Content-First approach. Key focus was towards re-orienting the existing functionalities and surfacing them in an intuitive and non-officious way.
 			</p>
 		</div>
-		<div class="diagram">
+		<div class="diagram hidden">
 			<img data-src="/projects/idnxt/d1.jpg"/>
 		</div>
 	</div>
-	<div class="idnxt-slider">
+	<div class="project-graphic-section">
 	<div class="graphic-img"><img data-src="/projects/idnxt/01.jpg"/></div>
 	</div>
-	<div class="id-big-bg">
+	<div class="project-graphic-section-middle-big">
 		<div class="graphic-img"><img data-src="/projects/idnxt/03.jpg"/></div>
 	</div>
+</div>
 </div>
 </template>
 <script>

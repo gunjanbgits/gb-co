@@ -1,5 +1,5 @@
 <template>
-<div class="project-graphic-section">
+<div  class="slider-outer">
 	<div class="slider-controller">
 		<button @click="prev" type="button" class="slick-prev slick-arrow-outer">←</button>
 		<div class="slick-counter">
@@ -59,7 +59,8 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="stylus">
-.project-graphic-section
+.slider-outer
+	margin-top 48px
 	position relative
 	.project-slider
 		position relative
@@ -108,7 +109,6 @@ export default {
 	cursor pointer
 	content "-"
 	margin-right .5rem
-	height 24px
 	width 48px
 	font-size 2rem
 </style>

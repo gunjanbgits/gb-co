@@ -61,7 +61,18 @@
                     "name": "Adobe Social",
                     "images": [
                       "/projects/adobesocial/00-Hero-Cover.png", 
-                      "/projects/adobesocial/00-Publisher.png"
+                      "/projects/adobesocial/00-Publisher.png",
+                      "/projects/adobesocial/01-Publisher.png",
+                      "/projects/adobesocial/02-Publisher.png",
+                      "/projects/adobesocial/03-Publisher.png",
+                      "/projects/adobesocial/01-CC.png",
+                      "/projects/adobesocial/04-CC.png",
+                      "/projects/adobesocial/01-PEPE.png",
+                      "/projects/adobesocial/03-PEPE.png",
+                      "/projects/adobesocial/01-WS.png",
+                      "/projects/adobesocial/03-WS.png",
+                      "/projects/adobesocial/04-WS.png"
+
                     ]
                   },
                   {

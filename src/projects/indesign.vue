@@ -1,22 +1,30 @@
 <template>
+  <div class="project-block">
 <div class="project-section-block">
-	<div class="id-text">
-		<div class="project-title">
-			<span class="title-inner">Adobe InDesign<span class="year-label">2014-16</span></span>
-		</div>
-		<div class="project-meta">
-			User Experience Design, Product Design
-		</div>
+  <div class="project-title-section">
+    <div class="project-title">
+      <span class="title-inner">Adobe InDesign<span class="year-label">2014-16</span></span>
+    </div>
+    <div class="project-meta">
+      User Experience Design, Product Design
+    </div>
+  </div>
+	<div class="project-info-section">
 		<div class="project-details">
-			<p>
-New Page Layouting System imagined from ground up, focussed on scalability and extensibility to support workflows for cross channel publishing needs.
-New Page Layouting System imagined from ground up, focussed on scalability and extensibility to support workflows for cross channel publishing needs.New Page Layouting System imagined from ground up, focussed on scalability and extensibility to support workflows for cross channel publishing needs.New Page Layouting System imagined from ground up, focussed on scalability and extensibility to support workflows for cross channel publishing needs.
-			</p>
+    <ul  class="arrowlist">
+      <li>Web publishing workflows - Publish Online</li>
+      <li>New OpenType features</li>
+      <li>Accesibility enhancements </li>
+      <li>Complete UI overhaul</li>
+      <li>Integration with Adobe Experience Manager for Enterprise workflows.</li>
+      <li>Enhancements in Footnotes and endnotes capabilities for long form documents</li>
+    </ul>
 		</div>
 	</div>
-	<div class="id-big-bg" v-lazy-container="{ selector: 'img' }">
+	<div class="project-graphic-section-middle-big" v-lazy-container="{ selector: 'img' }">
 		<div class="graphic-img"><img data-src="/projects/indesign/00.jpg"/></div>
 	</div>
+</div>
 </div>
 </template>
 <script>

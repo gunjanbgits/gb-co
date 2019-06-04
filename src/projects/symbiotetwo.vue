@@ -1,12 +1,15 @@
 <template>
+<div class="project-block">
 <div class="project-section-block" v-lazy-container="{ selector: 'img' }">
-	<div class="symbi-text">
-		<div class="project-title">
-			<span class="title-inner">Symbiote II<span class="year-label">2019</span></span>
-		</div>
-		<div class="project-meta">
-			Participatory Design, Machine Leaning, StoryTelling
-		</div>
+  <div class="project-title-section">
+        <div class="project-title">
+      <span class="title-inner">Symbiote II<span class="year-label">2019</span></span>
+    </div>
+    <div class="project-meta">
+      Object Oriented Ontology, Network Theory, Discursive design, Physical Computation, Arduino, Digital Fabrication, Rapid Prototyping.  
+    </div>
+  </div>
+	<div class="project-info-section">
 		<div class="project-details">
 			<p>
 Symbiote - II is an experiment to understand and visualize relationships between devices that are always connected through the internet. We are surrounded by gadgets and gizmos which are constantly communicating to each other but that communication cannot be perceived by us in an intuitive way.</p><p>
@@ -15,7 +18,7 @@ The pair of IoT devices imitate the different symbiotic relationship through the
 		</div>
 		<div class="diagram" v-lazy-container="{ selector: 'img' }"><img data-src="/projects/symbiote2/d1@2x.png"/></div>
 	</div>
-	<div class="symbi-big-image-side">
+	<div class="project-graphic-section">
        <div class="graphic-img"><img data-src="/projects/symbiote2/01.jpg"/></div>
 	</div>
       <div class="symbi-img-grid-1">
@@ -36,6 +39,8 @@ The pair of IoT devices imitate the different symbiotic relationship through the
       	</div>
       	<div class="caption">Proximity</div>
       </div>
+      <div class="spacer"></div>
+</div>
 </div>
 </template>
 
@@ -57,18 +62,12 @@ export default {
 </script>
 
 <style scoped lang="stylus">
-.symbi-text
-  grid-column 1 / span 4
-.symbi-big-image-side
-  grid-column 6 / span 7
-  margin-top 30vh
-.symbi-big-image-center
-  margin 10vh 0
-  grid-column 2 / span 10
 .symbi-img-grid-1
-	grid-column 1 /span 4
+  grid-column 1 /span 4
 .symbi-img-grid-2
-	grid-column 5 /span 4
+  grid-column 5 /span 4
 .symbi-img-grid-3
-	grid-column 9 /span 4
-</style>
+  grid-column 9 /span 4 
+.spacer
+  height 4rem
+  </style>

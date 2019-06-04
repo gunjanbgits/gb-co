@@ -7,11 +7,14 @@ import checkView from 'vue-check-view';
 import VueLazyload from 'vue-lazyload';
 import Slick from 'vue-slick';
 import VueScrollTo from 'vue-scrollto';
-import 'fullpage.js/vendors/scrolloverflow' // Optional. When using scrollOverflow:true
-//import './fullpage.scrollHorizontally.min' // Optional. When using fullpage extensions
-import VueFullPage from 'vue-fullpage.js'
+import arena from 'are.na';
+import VueMasonry from 'vue-masonry-css';
+// import 'fullpage.js/vendors/scrolloverflow' // Optional. When using scrollOverflow:true
+// //import './fullpage.scrollHorizontally.min' // Optional. When using fullpage extensions
+// import VueFullPage from 'vue-fullpage.js'
 
-Vue.use(VueFullPage);
+// Vue.use(VueFullPage);
+Vue.use(VueMasonry);
 Vue.use(Slick);
 Vue.use(VueLazyload, {
   preload: 2
@@ -41,6 +44,9 @@ const options = {
     termination: 300
   }
 };
+
+const Arena = require('are.na');
+Vue.prototype.arena = new Arena();
 
 Vue.use(VueProgressBar, options);
 // default breakpoints - customize this

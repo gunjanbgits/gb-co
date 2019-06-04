@@ -44,7 +44,7 @@ export default {
             sk.vertex(0, 0);
             let xoff = sk.map(sk.cos(a+phase), -1, 1, 0, 2);
             let yoff = sk.map(sk.sin(a+phase), -1, 1, 0, 2);
-            let r = sk.map(sk.noise(xoff, yoff, zoff), 0, 1, 45, 65);
+            let r = sk.map(sk.noise(xoff, yoff, zoff), 0, 1, 35, 85);
             let _x = r * sk.cos(a);
             let _y = r * sk.sin(a);
             sk.vertex(_x, _y);

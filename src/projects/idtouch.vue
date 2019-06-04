@@ -1,19 +1,22 @@
 <template>
+<div class="project-block">
 <div class="project-section-block">
-	<div class="id-touch-text">
+	<div class="project-title-section">
 		<div class="project-title">
 			<span class="title-inner">InDesign Touch<span class="year-label">2016</span></span>
 		</div>
 		<div class="project-meta">
-			User Experience Design, Product Design
+			Product Design, User Experience Design, Interaction Design, User Interface, Prototyping
 		</div>
+	</div>
+	<div class="project-info-section">
 		<div class="project-details">
 			<p>
-New Page Layouting System imagined from ground up, focussed on scalability and extensibility to support workflows for cross channel publishing needs.New Page Layouting System imagined from ground up, focussed on scalability and extensibility to support workflows for cross channel publishing needs.New Page Layouting System imagined from ground up, focussed on scalability and extensibility to support workflows for cross channel publishing needs.New Page Layouting System imagined from ground up, focussed on scalability and extensibility to support workflows for cross channel publishing needs.
+Lead the design efforts for the touch enabled workspace within InDesign from concept to and execution. Worked closely with designers from other products and core engineering team to develop and define consistent touch gestures for creative cloud family of desktop and mobile products. Conducted user tests and validation sessions with new and experienced users. Designed the new user interface framework for desktop apps for an optimized and intuitive workflow. Designed, developed and implemented the on-boarding experience for the new workspace. 
 			</p>
 		</div>
 	</div>
-	<div class="id-touch-slider">
+	<div class="project-graphic-section">
 	<ProjectSlider v-bind:project="myJson.previously[2]"></ProjectSlider>
 	</div>
 	<div class="touch-onb">
@@ -21,8 +24,9 @@ New Page Layouting System imagined from ground up, focussed on scalability and e
 			Onboarding Experience for InDesign Touch Workspace
 			<p class="big-arrow">↓</p>
 		</div>
-		<iframe style="border:none;" src="http://gunjanb.co/WEB2018/projects/extra/idTouch-ftue/index.html"></iframe>
+		<iframe style="border:none;" src="http://psyched.in/ALLOLDSTUFF/WEB2018/projects/extra/idTouch-ftue/index.html"></iframe>
 	</div>
+</div>
 </div>
 </template>
 <script>
@@ -43,11 +47,6 @@ export default {
 </script>
 
 <style lang="stylus">
-.id-touch-text
-	grid-column 1 / span 4
-.id-touch-slider
-	grid-column 6 / span 7
-	margin-top 20vh
 .touch-onb
 	text-align center
 	margin 10vh 10vw
@@ -60,6 +59,13 @@ export default {
 		min-height 90vh
 		margin 0 auto
 		border none
+.large
+.medium
+	.touch-onb
+		margin 10vh 0
+.small
+	.touch-onb
+		display none
 </style>
 
 <!-- <p>

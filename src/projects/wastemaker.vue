@@ -1,19 +1,21 @@
 <template>
-  <div>
+<div class="project-block">
 <div class="project-section-block" v-lazy-container="{ selector: 'img' }">
-  <div class="wm-text">
-    <div class="project-title">
+  <div class="project-title-section">
+      <div class="project-title">
       <span class="title-inner">WasteMaker<span class="year-label">2018</span></span>
     </div>
     <div class="project-meta">
-      Participatory Design, Machine Leaning, StoryTelling
+      Participatory Design, Information Theory, Performance Art, OpenFrameworks, Machine Learning, Tensorflow
     </div>
+  </div>
+  <div class="project-info-section">
     <div class="project-details">
       <p>The Wastemaker is a human-machine cataloging system for unquantifiable temporal events. The machine is activated by pushing the button. The machine generates a unique pattern on the screen by analysing, learning and mimick the patterns   in the existing repository. The participant recreates the pattern on the provided stencil. The recreated pattern by the human is then added to the pattern repository which is used by the machine. The machine learning algorithm at initiation was seeded with 5000 randomly generated patterns.</p>
     </div>
     <div class="diagram" ><img data-src="/projects/wastemaker/d1@2x.png"/></div>
   </div>
-  <div class="wm-big-image">
+  <div class="project-graphic-section">
     <div class="graphic-img"><img data-src="/projects/wastemaker/e1.jpg"/></div>
     <div><p class="big-arrow">↑</p><p> Meaning making space, The Wastemaker, 2018</p></div>
   </div>
@@ -54,8 +56,8 @@
     <div class="caption">6. Participant exits the meaning-making space.</div>
   </div>
 </div>
-<div class="project-section-block">
-  <div class="wm-slider-middle">
+<div class="project-section-block ">
+  <div class="project-graphic-section-middle-big wm-slider-middle">
     <ProjectSlider v-bind:project="myJson.recent[3]"></ProjectSlider>
     <div class="caption-slider"><p class="big-arrow">↑</p><p>Style Transfer with Convolutional Neural Network using the trained model from The Wastemaker, 2018</p></div>
   </div>
@@ -80,11 +82,6 @@ export default {
 };
 </script>
 <style scoped lang="stylus">
-.wm-text
-  grid-column 1 / span 4
-.wm-big-image
-  grid-column 6 / span 7
-  margin 20vh 0  
 .wm-img-grid-1
   grid-column 1 /span 4
 .wm-img-grid-2
@@ -98,9 +95,6 @@ export default {
 .wm-img-grid-6
   grid-column 9 /span 4
 .wm-slider-middle
-  margin 10vh 0
-  grid-column 1 / span 16
-  font-size 1rem
   background-color #f9f9f9
   padding 4rem 20vw 0 20vw
   .caption-slider

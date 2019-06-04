@@ -110,9 +110,15 @@ export default {
   box-sizing border-box
   position relative
   line-height 1.5
-  font-size 1.375rem
   letter-spacing -.1px
+  padding 1rem
 
+.xlarge
+  font-size 1.375rem
+.large
+  font-size  1.1rem
+.medium
+  font-size 1rem
 .align-right
   text-align right
 .italics
@@ -120,6 +126,9 @@ export default {
   letter-spacing -.5px
 .light
   opacity .5
+.underline-dashed
+  padding-bottom 2px
+  border-bottom 1px dashed #000
 
 // .section-block
 //   display grid
@@ -197,7 +206,19 @@ ul
   margin 0
   padding 0
   li
-    margin-bottom 1rem
+    margin-bottom .5rem
+
+.arrowlist
+  li
+    position relative
+    margin-left 1.5rem
+    &:before
+      content "→"
+      position absolute
+      left -1.5rem
+      top -2px
+      height 1rem
+      width 1.5rem
 
 ::selection {
   background: #dedede;
